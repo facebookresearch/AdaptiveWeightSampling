@@ -8,3 +8,9 @@ __pycache__/
 
 # Generated figures
 *.pdf
+
+# Hyperparameter files
+*.csv
+
+# Data files
+*.pkl
