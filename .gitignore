@@ -11,6 +11,7 @@ __pycache__/
 
 # Hyperparameter files
 *.csv
+*.csv_bak
 
 # Data files
 *.pkl
