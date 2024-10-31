@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Generated figures
+*.pdf
+
+# Hyperparameter files
+*.csv
+*.csv_bak
+
+# Data files
+*.pkl
+
+# Jupyter notebook temp files
+.ipynb_checkpoints/
+
+# Python build files
+*.egg-info
